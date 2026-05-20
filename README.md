@@ -2,8 +2,6 @@
 
 # ▌ NeXT  │  `pbernicchi`
 
-*…the computer for the 1990s, still booting in the 2020s.*
-
 </div>
 
 ---
@@ -49,20 +47,20 @@
 
 ## ▍ Currently Compiling
 
-- **[`auxbbs`](https://github.com/pbernicchi/auxbbs)** — A/UX host recreation for Telehack. Bringing Apple's almost-forgotten Unix back online, one BBS session at a time.
-- **[`th_badge_cmp`](https://github.com/pbernicchi/th_badge_cmp)** — Telehack badge-comparison script. Local Python, because the badge wall deserves diff tooling.
-- **[`iris`](https://github.com/pbernicchi/iris)** *(fork of [unxmaal/iris](https://github.com/unxmaal/iris))* — SGI Indy emulator. Adjacent silicon to the NeXT slab; same magnesium-era spirit.
+- **[`auxbbs`](https://github.com/pbernicchi/auxbbs)** — A/UX host recreation for Telehack. 
+- **[`th_badge_cmp`](https://github.com/pbernicchi/th_badge_cmp)** — Telehack badge-comparison script. (local Python)
+- **[`iris`](https://github.com/pbernicchi/iris)** *(fork of [unxmaal/iris](https://github.com/unxmaal/iris))* — SGI Indy emulator. 
 - **[`locationchanger`](https://github.com/pbernicchi/locationchanger)** *(fork of [eprev/locationchanger](https://github.com/eprev/locationchanger))* — macOS network-location switcher driven by Wi-Fi SSID.
 
 ## ▍ Stack
 
+![BASIC](https://img.shields.io/badge/BASIC-000000?style=for-the-badge&logo=bash&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-000000?style=for-the-badge&logo=perl&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
-*All shields rendered in NeXT magnesium-on-black, naturally.*
 
 ## ▍ Boot Log
 
@@ -84,8 +82,6 @@
 ---
 
 <div align="center">
-
-> *"The journey is the reward."*  —  Steve Jobs, NeXT Inc., 1985
 
 `◢◤  insanely great  ◥◣`
 
