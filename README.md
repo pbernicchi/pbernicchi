@@ -47,6 +47,7 @@
 
 ## ▍ Currently Compiling
 
+- **[`AMIX`](https://github.com/pbernicchi/AMIX)** — Amiga UNIX (SVR4) 2.1 on an emulated Amiga 3000UX under FS-UAE.
 - **[`iris`](https://github.com/pbernicchi/iris)** *(fork of [unxmaal/iris](https://github.com/unxmaal/iris))* — SGI Indy emulator. (Rust)
 - **[`grimorium`](https://github.com/pbernicchi/grimorium)** *(fork of [unxmaal/grimorium](https://github.com/unxmaal/grimorium))* — SPA for local-network resource diagnostics; LCARS theme.
 - **[`auxbbs`](https://github.com/pbernicchi/auxbbs)** *(private)* — A/UX host recreation for Telehack.
