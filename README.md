@@ -47,9 +47,12 @@
 
 ## ▍ Currently Compiling
 
-- **[`auxbbs`](https://github.com/pbernicchi/auxbbs)** — A/UX host recreation for Telehack. 
+- **[`iris`](https://github.com/pbernicchi/iris)** *(fork of [unxmaal/iris](https://github.com/unxmaal/iris))* — SGI Indy emulator. (Rust)
+- **[`grimorium`](https://github.com/pbernicchi/grimorium)** *(fork of [unxmaal/grimorium](https://github.com/unxmaal/grimorium))* — SPA for local-network resource diagnostics; LCARS theme.
+- **[`auxbbs`](https://github.com/pbernicchi/auxbbs)** *(private)* — A/UX host recreation for Telehack.
+- **[`TelehackProfile`](https://github.com/pbernicchi/TelehackProfile)** *(fork of [appydog/TelehackProfile](https://github.com/appydog/TelehackProfile))* — assets used in my Telehack profile.
+- **[`bookmark_sync`](https://github.com/pbernicchi/bookmark_sync)** — cross-platform browser bookmark sync tool. (Python)
 - **[`th_badge_cmp`](https://github.com/pbernicchi/th_badge_cmp)** — Telehack badge-comparison script. (local Python)
-- **[`iris`](https://github.com/pbernicchi/iris)** *(fork of [unxmaal/iris](https://github.com/unxmaal/iris))* — SGI Indy emulator. 
 - **[`locationchanger`](https://github.com/pbernicchi/locationchanger)** *(fork of [eprev/locationchanger](https://github.com/eprev/locationchanger))* — macOS network-location switcher driven by Wi-Fi SSID.
 
 ## ▍ Stack
