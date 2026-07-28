@@ -75,6 +75,10 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
+![Telehack](https://img.shields.io/badge/Telehack-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yLjUgM2gxOUExLjUgMS41IDAgMCAxIDIzIDQuNXYxNUExLjUgMS41IDAgMCAxIDIxLjUgMjFoLTE5QTEuNSAxLjUgMCAwIDEgMSAxOS41di0xNUExLjUgMS41IDAgMCAxIDIuNSAzWm0uNSAyLjd2MTMuNmgxOFY1LjdaIi8%2BPHBhdGggZD0iTTUuNCA4LjcgMTEgMTJsLTUuNiAzLjN2LTIuMkw4LjEgMTIgNS40IDEwLjlaIi8%2BPHJlY3QgeD0iMTEuOCIgeT0iMTQiIHdpZHRoPSI2LjYiIGhlaWdodD0iMS44Ii8%2BPC9zdmc%2BCg%3D%3D)
+![Trumpet Winsock](https://img.shields.io/badge/Trumpet%20Winsock-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjEuNSIgeT0iMTAuNCIgd2lkdGg9IjMuMiIgaGVpZ2h0PSIzLjIiIHJ4PSIxIi8%2BPHJlY3QgeD0iNC41IiB5PSIxMS4xIiB3aWR0aD0iMTAiIGhlaWdodD0iMS44Ii8%2BPHJlY3QgeD0iNi40IiB5PSI2IiB3aWR0aD0iMS43IiBoZWlnaHQ9IjUuMyIgcng9IjAuOCIvPjxyZWN0IHg9IjkuMyIgeT0iNiIgd2lkdGg9IjEuNyIgaGVpZ2h0PSI1LjMiIHJ4PSIwLjgiLz48cmVjdCB4PSIxMi4yIiB5PSI2IiB3aWR0aD0iMS43IiBoZWlnaHQ9IjUuMyIgcng9IjAuOCIvPjxwYXRoIGQ9Ik0xNC4yIDEwLjIgTDIxLjggNC44IEwyMS44IDE5LjIgTDE0LjIgMTMuOCBaIi8%2BPC9zdmc%2BCg%3D%3D)
+![Star Trek](https://img.shields.io/badge/Star%20Trek-000000?style=for-the-badge&logo=startrek&logoColor=white)
+
 
 ## ▍ Boot Log
 
